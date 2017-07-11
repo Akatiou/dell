@@ -53,3 +53,10 @@ ul ul{
   padding : 48px;
 
 }
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+}
