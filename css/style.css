@@ -10,7 +10,8 @@ h1 {
 
 h1 ,h2{
 
-  color: Crimson;
+  color: ThreeDDarkShadow;
+  /*Crimson;*/
 
 }
 
@@ -22,7 +23,8 @@ section h2 {text-decoration:underline;
 
 /* les 2 listes en couleur SteelBlue */
 
-ol , ul {color:SteelBlue;
+ol , ul {color:SlateBlue;
+	/*SteelBlue*/
 
   
 
@@ -59,4 +61,10 @@ a{
 a:hover{
 	text-decoration: underline;
 	font-weight: bold;
+}
+body {
+	background: #F5F5F5;
+}
+p {
+	color: SlateBlue;
 }
